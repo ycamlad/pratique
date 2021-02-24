@@ -7,7 +7,7 @@ int main() {
  int p = 100;
 
 
-//2
+ //2
 
     for(int i=0 ; i<p ; i++) {
         valeurs = new int[p];
